@@ -1,4 +1,7 @@
-# modal-project
+# UAS LAB PBK
+NAMA : Fitrah Rahmadanu
+NPM : 213510306
+KELAS : 4C  
 
 ## Project setup
 ```
